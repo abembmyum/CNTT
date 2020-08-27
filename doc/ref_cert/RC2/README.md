@@ -24,7 +24,7 @@ This is the Kubernetes Based Reference Conformance (RC-2)
 | Chapter | Status |
 | --- | --- |
 | Chapter 01 - Introduction                                                 | Initial Framework Only |
-| Chapter 02 - Kubernetes Test Cases and Traceability to CNTT Requirements  | Initial Framework Only |
+| Chapter 02 - Kubernetes Test Cases and Requirements Traceability | Initial Framework Only |
 | Chapter 03 - Kubernetes Testing Cookbook                                  | Initial Framework Only |
 | Chapter 04 - CNF Test Cases and Traceability to CNTT Requirements         | Initial Framework Only |
 | Chapter 05 - CNF Testing Cookbook                                         | Initial Framework Only |
