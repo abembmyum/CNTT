@@ -32,7 +32,7 @@ This is the Kubernetes Based Reference Conformance (RC-2)
 
 ## Table of Contents
 * [Chapter 01 - Introduction](chapters/chapter01.md)
-* [Chapter 02 - Kubernetes Test Cases and Traceability to CNTT Requirements ](chapters/chapter02.md)
+* [Chapter 02 - Kubernetes Test Cases and Requirements Traceability](chapters/chapter02.md)
 * [Chapter 03 - Kubernetes Testing Cookbook](chapters/chapter03.md)
 * [Chapter 04 - CNF Test Cases and Traceability to CNTT Requirements](chapters/chapter04.md)
 * [Chapter 05 - CNF Testing Cookbook](chapters/chapter05.md)
