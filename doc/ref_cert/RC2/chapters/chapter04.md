@@ -1,5 +1,5 @@
 [<< Back](../)
 
-# 4. CNF Test Cases and Traceability to CNTT Requirements
+# 4. CNF Test Cases and Requirements Traceability
 
 ## Table of Contents
